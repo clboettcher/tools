@@ -7,6 +7,8 @@
 // @match        https://calendar.google.com/*
 // @grant        none
 // @run-at       document-idle
+// @downloadUrl  https://github.com/clboettcher/tools/raw/refs/heads/main/tampermonkey/google-calendar-durations.user.js
+// @updateUrl    https://github.com/clboettcher/tools/raw/refs/heads/main/tampermonkey/google-calendar-durations.user.js
 // ==/UserScript==
 
 (function() {
