@@ -9,7 +9,7 @@ create a new script, and use "Utilities" > "Import from URL" with the raw GitHub
 of the script, e.g.:
 
 ```
-https://raw.githubusercontent.com/clboettcher/tools/main/tampermonkey/reclaim-overdue.user.js
+https://github.com/clboettcher/tools/raw/refs/heads/main/tampermonkey/google-calendar-durations.user.js
 ```
 
 Alternatively, most browsers with Tampermonkey installed will prompt to install the
